@@ -1,5 +1,6 @@
 # website hello world use maven
 
+<img src="https://api.travis-ci.org/cakhanif/website-helloworld-maven.svg?branch=master">
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
 ## Running Locally
